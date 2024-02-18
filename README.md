@@ -27,7 +27,7 @@ Welcome to the Blind Drivers project! Our team is committed to developing a cutt
 - G.R Sowndarya
 
 ## Acknowledgments
-We express our gratitude to [Organization/Event Name] for providing us with the opportunity to participate in the Solutions Challenge.
+We express our gratitude to GOOGLE and GDC for providing us with the opportunity to participate in the Solutions Challenge.
 
 For detailed instructions and documentation, refer to the folders in the repository.
 
