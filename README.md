@@ -21,10 +21,10 @@ Welcome to the Blind Drivers project! Our team is committed to developing a cutt
 3. Run the Flutter app and upload the Arduino code to the designated device.
 
 ## Team Members
-- Nagesh
-- Parag
-- Aryan
-- Sowndarya
+- Nagesh Merva
+- Parag das
+- Aryan Ghorpade
+- G.R Sowndarya
 
 ## Acknowledgments
 We express our gratitude to [Organization/Event Name] for providing us with the opportunity to participate in the Solutions Challenge.
