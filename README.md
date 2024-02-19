@@ -9,7 +9,8 @@ Welcome to the Blind Drivers project! Our team is committed to developing a cutt
 - **Navigation Assistance:** Provides real-time navigation feedback through vibrations and alerts.
 - **Wearable Device:** Integrates seamlessly with a wearable belt for hands-free operation.
 ## link to our YOUTUBE VIDEO 
-[![Watch the video](https://www.youtube.com/watch?v=NJTRAVWQiGo)
+[![Watch the video](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=NJTRAVWQiGo)
+
 
 ## Technologies Used
 - Flutter Framework
