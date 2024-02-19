@@ -8,6 +8,8 @@ Welcome to the Blind Drivers project! Our team is committed to developing a cutt
 - **Fall Detection:** Implements MPU6050 sensor for accurate fall detection and user safety.
 - **Navigation Assistance:** Provides real-time navigation feedback through vibrations and alerts.
 - **Wearable Device:** Integrates seamlessly with a wearable belt for hands-free operation.
+## link to our YOUTUBE VIDEO 
+[![Watch the video](https://www.youtube.com/watch?v=NJTRAVWQiGo)
 
 ## Technologies Used
 - Flutter Framework
